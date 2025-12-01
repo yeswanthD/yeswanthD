@@ -88,6 +88,9 @@ With a strong background in **Python**, **Machine Learning**, and **Deep Learnin
 <p align="center">
   <a href="mailto:yeswanth.ai369@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/></a>
   <a href="https://www.linkedin.com/in/yeswanth-doppalapudi-9a5700246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/yeswanth-doppalapudi-9a5700246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
+    <a href="https://www.instagram.com/yeswanthdoppalapudi/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
+
   <a href="https://github.com/yeswanthD"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/></a>
 </p>
 
