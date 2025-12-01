@@ -8,6 +8,18 @@
 
 ---
 
+### 🎬 Introduction Video
+
+<p align="center">
+    <a href="[https://www.youtube.com/watch?v=SGBigXN3gjQ]">
+        <img src="[URL_TO_VIDEO_THUMBNAIL_OR_GIF]" alt="Yeswanth Doppalapudi - Generative AI Portfolio Introduction" width="600"/>
+    </a>
+    <br>
+    <a href="[YOUR_YOUTUBE_URL]">Watch the full video introduction on YouTube</a>
+</p>
+
+---
+
 ### 🌟 About Me
 
 I’m **Yeswanth Doppalapudi**, a **Generative & Agentic AI Engineer** passionate about building intelligent systems that can **automate, reason, and create**.  
