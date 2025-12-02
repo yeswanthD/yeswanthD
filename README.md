@@ -1,6 +1,3 @@
-<!-- Animated GitHub Profile README - Paste this into README.md -->
-
-<!-- Hero: Inline animated SVG (gradient + floating blobs) -->
 <p align="center">
   <svg width="100%" height="220" viewBox="0 0 1200 220" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleDesc">
     <title id="titleDesc">Yeswanth Doppalapudi — Generative AI Engineer</title>
