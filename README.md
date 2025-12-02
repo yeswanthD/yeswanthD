@@ -10,13 +10,13 @@
 
 ### 🎬 Introduction Video
 
-<p align="center">
-    <a href="[https://www.youtube.com/watch?v=SGBigXN3gjQ]">
-        <img src="[URL_TO_VIDEO_THUMBNAIL_OR_GIF]" alt="Yeswanth Doppalapudi - Generative AI Portfolio Introduction" width="600"/>
-    </a>
-    <br>
-    <a href="[https://www.youtube.com/watch?v=SGBigXN3gjQ]">Watch the full video introduction on YouTube</a>
-</p>
+#<p align="center">
+ #   <a href="[https://www.youtube.com/watch?v=SGBigXN3gjQ]">
+ #       <img src="[URL_TO_VIDEO_THUMBNAIL_OR_GIF]" alt="Yeswanth Doppalapudi - Generative AI Portfolio Introduction" width="600"/>
+  #  </a>
+   # <br>
+    #<a href="[https://www.youtube.com/watch?v=SGBigXN3gjQ]">Watch the full video introduction on YouTube</a>
+#</p>
 
 ---
 
