@@ -95,22 +95,21 @@ I'm **Yeswanth Doppalapudi**, a Generative & Agentic AI Engineer passionate abou
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthD&show_icons=true&theme=vision-friendly-dark" alt="Yeswanth's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthD&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthD&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthD&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthD&theme=vision-friendly-dark" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=yeswanthD&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yeswanthD&theme=github" alt="Contribution Graph" height="160">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthD&theme=tokyo-night" />
 </p>
 
----
 
 <p align="center">
   <em>Let’s build the future of AI together 🚀</em>
