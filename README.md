@@ -68,16 +68,16 @@ With a strong background in **Python**, **Machine Learning**, and **Deep Learnin
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthD&show_icons=true&theme=radical  " alt="Yeswanth's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthD&layout=compact&theme=radical  " alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthD&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthD&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthD&theme=radical  " alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=yeswanthD&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthD&theme=tokyo-night  " alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthD&theme=tokyo-night" />
 </p>
 
 ---
@@ -94,6 +94,11 @@ With a strong background in **Python**, **Machine Learning**, and **Deep Learnin
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthD&theme=tokyo-night" />
+</p>
+
 
 ### 💬 Quote I Live By
 > “Don’t just use AI — build AI that can use you.”  
