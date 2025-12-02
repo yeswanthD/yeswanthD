@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yeswanth Doppalapudi</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg  ">
-    <img src="https://readme-typing-svg.demolab.com  ?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer+%E2%80%A2+Prompt+Engineer+%E2%80%A2+Agentic+AI+Engineer;AI+Technical+Trainer+%7C+Python+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+LLMs;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing Animation" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer+%E2%80%A2+Prompt+Engineer+%E2%80%A2+Agentic+AI+Engineer;AI+Technical+Trainer+%7C+Python+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+LLMs;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80"
+    alt="Typing animation" />
 </p>
 
 
