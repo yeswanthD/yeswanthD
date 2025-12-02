@@ -1,6 +1,3 @@
-Here's an enhanced version of your GitHub README with the video section removed and several improvements for better visual appeal, organization, and impact:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Yeswanth Doppalapudi</h1>
 
 <p align="center">
@@ -123,4 +120,4 @@ I believe in creating **human-centered AI systems** that augment human capabilit
   <br><br>
   ⭐ If you like my projects, consider giving them a star — it helps others discover them too! 🚀
 </p>
-```
+
