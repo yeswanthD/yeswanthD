@@ -94,6 +94,10 @@ I'm **Yeswanth Doppalapudi**, a Generative & Agentic AI Engineer passionate abou
 - 🌐 **Portfolio:** (To be updated)
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeswanthD&theme=radical" />
+</p>
+
 
 ### 📊 GitHub Stats & Activity
 
